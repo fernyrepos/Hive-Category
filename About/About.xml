@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Hive Category</name>
+	<author>ferny</author>
+	<packageId>ferny.hivecategory</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>oskarpotocki.vfe.insectoid2</packageId>
+			<displayName>Vanilla Factions Expanded - Insectoids 2</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3309003431</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>Renames the insectoids category to "Hive" and moves it and adds an icon.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>oskarpotocki.vfe.insectoid2</li>
+	</loadAfter>
+</ModMetaData>
